@@ -24,12 +24,11 @@ Antes de iniciar, certifique-se de ter:
 ### 1. Preparação Inicial
 
 1. Certifique-se que o VirtualBox (ou outro) está instalado em sua máquina;
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/5.png?raw=true)
 2. Procure a versão do Ubuntu desejada;
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/1.png?raw=true)
 3. Clique em Download e aguarde até que o arquivo seja baixado;
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/2.png?raw=true)
-
+![Imagem]()
+![Imagem]()
+![Imagem]()
 ---
 
 ### 2. Criação da Máquina Virtual
@@ -46,7 +45,9 @@ Antes de iniciar, certifique-se de ter:
 4. Defina:
    - Usuário
    - Senha
-
+![Imagem]()
+![Imagem]()
+![Imagem]()
 ---
 
 ### 3. Configuração de Hardware
@@ -59,6 +60,9 @@ Antes de iniciar, certifique-se de ter:
    - **50GB** (recomendado)
 
 3. Clique em **Finalizar**;
+![Imagem]()
+![Imagem]()
+![Imagem]()
 
 ---
 
@@ -67,7 +71,9 @@ Antes de iniciar, certifique-se de ter:
 1. Selecione a máquina virtual criada;
 2. Clique em **Exibir/Iniciar**;
 3. Após abrir, execute o arquivo **"Install Ubuntu"**;
-
+![Imagem]()
+![Imagem]()
+![Imagem]()
 ---
 
 ### 5. Instalação do Sistema
@@ -85,7 +91,16 @@ Antes de iniciar, certifique-se de ter:
    - Fuso horário
 
 10. Clique em **Instalar**;
-
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
+![Imagem]()
 ---
 
 ### 6. Finalização
@@ -93,7 +108,9 @@ Antes de iniciar, certifique-se de ter:
 1. Aguarde a instalação ser concluída;
 2. Reinicie o sistema;
 3. Faça login com seu usuário;
-
+![Imagem]()
+![Imagem]()
+![Imagem]()
 ---
 
 ## 🖥️ Resultado Final
