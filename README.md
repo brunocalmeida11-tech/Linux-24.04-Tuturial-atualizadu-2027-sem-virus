@@ -121,4 +121,6 @@ Antes de iniciar, certifique-se de ter:
 
 Após reiniciar, o sistema estará pronto para uso dentro da máquina virtual.
 
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/67.png)
+---
 ## Integrantes: Bruno Caldeira de Almeida e Isaque Batista Cordeiro
