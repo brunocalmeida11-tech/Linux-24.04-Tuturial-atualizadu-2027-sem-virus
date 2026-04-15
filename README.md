@@ -24,8 +24,11 @@ Antes de iniciar, certifique-se de ter:
 ### 1. Preparação Inicial
 
 1. Certifique-se que o VirtualBox (ou outro) está instalado em sua máquina;
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/5.png?raw=true)
 2. Procure a versão do Ubuntu desejada;
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/1.png?raw=true)
 3. Clique em Download e aguarde até que o arquivo seja baixado;
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/2.png?raw=true)
 
 ---
 
