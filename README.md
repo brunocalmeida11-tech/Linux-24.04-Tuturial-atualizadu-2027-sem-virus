@@ -27,9 +27,9 @@ Antes de iniciar, certifique-se de ter:
 2. Procure a versão do Ubuntu desejada;
 3. Clique em Download e aguarde até que o arquivo seja baixado;
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/1.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/2.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/3.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/1.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/2.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/3.png)
 ---
 
 ### 2. Criação da Máquina Virtual
@@ -47,10 +47,10 @@ Antes de iniciar, certifique-se de ter:
    - Usuário
    - Senha
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/5.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/6.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/7.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/8.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/5.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/6.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/7.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/8.png)
 ---
 
 ### 3. Configuração de Hardware
@@ -64,9 +64,9 @@ Antes de iniciar, certifique-se de ter:
 
 3. Clique em **Finalizar**;
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/9.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/10.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/11.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/9.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/10.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/11.png)
 
 ---
 
@@ -75,9 +75,8 @@ Antes de iniciar, certifique-se de ter:
 1. Selecione a máquina virtual criada;
 2. Clique em **Exibir/Iniciar**;
 3. Após abrir, execute o arquivo **"Install Ubuntu"**;
-![Imagem](<img width="964" height="104" alt="image" src="https://github.com/user-attachments/assets/0a8d1ac6-e753-4e0e-82d0-5bf4ee11a29e" />
-)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/12.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/12.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/13.png)
 ---
 
 ### 5. Instalação do Sistema
@@ -96,17 +95,17 @@ Antes de iniciar, certifique-se de ter:
 
 10. Clique em **Instalar**;
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/14.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/15.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/16.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/17.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/18.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/19.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/20.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/21.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/22.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/23.png)
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/24.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/14.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/15.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/16.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/17.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/18.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/19.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/20.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/21.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/22.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/23.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/24.png)
 ---
 
 ### 6. Finalização
@@ -115,7 +114,7 @@ Antes de iniciar, certifique-se de ter:
 2. Reinicie o sistema;
 3. Faça login com seu usuário;
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/25.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/25.png)
 ---
 
 ## 🖥️ Resultado Final
