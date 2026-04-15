@@ -26,6 +26,7 @@ Antes de iniciar, certifique-se de ter:
 1. Certifique-se que o VirtualBox (ou outro) está instalado em sua máquina;
 2. Procure a versão do Ubuntu desejada;
 3. Clique em Download e aguarde até que o arquivo seja baixado;
+
 ![Imagem]()
 ![Imagem]()
 ![Imagem]()
@@ -45,6 +46,7 @@ Antes de iniciar, certifique-se de ter:
 4. Defina:
    - Usuário
    - Senha
+
 ![Imagem]()
 ![Imagem]()
 ![Imagem]()
@@ -60,6 +62,7 @@ Antes de iniciar, certifique-se de ter:
    - **50GB** (recomendado)
 
 3. Clique em **Finalizar**;
+
 ![Imagem]()
 ![Imagem]()
 ![Imagem]()
@@ -91,6 +94,7 @@ Antes de iniciar, certifique-se de ter:
    - Fuso horário
 
 10. Clique em **Instalar**;
+
 ![Imagem]()
 ![Imagem]()
 ![Imagem]()
@@ -108,6 +112,7 @@ Antes de iniciar, certifique-se de ter:
 1. Aguarde a instalação ser concluída;
 2. Reinicie o sistema;
 3. Faça login com seu usuário;
+
 ![Imagem]()
 ![Imagem]()
 ![Imagem]()
