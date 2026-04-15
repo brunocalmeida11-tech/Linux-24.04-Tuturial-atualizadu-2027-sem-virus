@@ -115,12 +115,12 @@ Antes de iniciar, certifique-se de ter:
 3. Faça login com seu usuário;
 
 ![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/25.png)
+![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/67.png)
 ---
 
 ## 🖥️ Resultado Final
 
 Após reiniciar, o sistema estará pronto para uso dentro da máquina virtual.
 
-![Imagem](https://github.com/brunocalmeida11-tech/Linux-24.04-Tuturial-atualizadu-2027-sem-virus/blob/main/img/67.png)
 ---
 ## Integrantes: Bruno Caldeira de Almeida e Isaque Batista Cordeiro
