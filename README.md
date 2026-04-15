@@ -121,3 +121,5 @@ Antes de iniciar, certifique-se de ter:
 ## 🖥️ Resultado Final
 
 Após reiniciar, o sistema estará pronto para uso dentro da máquina virtual.
+
+## Integrantes: Bruno Caldeira de Almeida e Isaque Batista Cordeiro
